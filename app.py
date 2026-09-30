@@ -120,7 +120,7 @@ def build_app() -> gr.Blocks:
 
         submit_btn = gr.Button("Generate", variant="primary")
 
-        output_box = gr.Textbox(label="H3 Prompt", lines=14, show_copy_button=True)
+        output_box = gr.Textbox(label="H3 Prompt", lines=14, buttons=["copy"])
 
         download_btn = gr.DownloadButton("Download history (.json)")
 
