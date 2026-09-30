@@ -6,9 +6,9 @@ Maintained by **Citron Legacy** at [github.com/citronlegacy/prompt_writer_collab
 
 ## Launch App in Colab
 
-Open in Colab [![Open in Colab](https://raw.githubusercontent.com/citronlegacy/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/citronlegacy/prompt_writer_collab/blob/main/notebook.ipynb)
+[![Open in Colab](https://raw.githubusercontent.com/citronlegacy/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/citronlegacy/prompt_writer_collab/blob/main/notebook.ipynb)
 
-Open Dev Branch in Colab [![Open Dev Branch in Colab](https://raw.githubusercontent.com/citronlegacy/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/citronlegacy/prompt_writer_collab/blob/dev/notebook.ipynb)
+[![Open Dev Branch in Colab](https://raw.githubusercontent.com/citronlegacy/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/citronlegacy/prompt_writer_collab/blob/dev/notebook.ipynb)
 
 ## What it does
 
